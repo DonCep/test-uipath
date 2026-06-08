@@ -1,0 +1,6 @@
+{
+  "Name": "UserInterface",
+  "ProjectType": "Process",
+  "Description": "User interface of UiPath Studio",
+  "MainFile": "Main.xaml"
+}
